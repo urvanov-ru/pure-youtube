@@ -1,4 +1,6 @@
+tp-yt-app-drawer,
 ytd-browse[page-subtype="home"],
+ytd-mini-guide-entry-renderer a[title="Shorts"],
 ytd-watch-next-secondary-results-renderer,
 ytd-item-section-renderer[is-playlist-video-container=""],
 ytd-item-section-renderer[is-playlist-shelf=""]
