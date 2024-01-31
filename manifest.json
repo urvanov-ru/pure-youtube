@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "pure-youtube",
   "author": "Fedor Urvanov",
   "homepage_url": "https://urvanov.ru",
-  "version": "1.2",
+  "version": "1.3",
 
   "description": "Removes recomendations from youtube.com",
 
